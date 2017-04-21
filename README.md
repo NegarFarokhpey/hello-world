@@ -1,3 +1,3 @@
 # hello-world
 This is a test for Negar
-I like start wars and comics
+I like star wars and comics
